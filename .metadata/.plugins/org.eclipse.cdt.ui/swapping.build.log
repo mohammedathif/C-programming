@@ -1,0 +1,15 @@
+14:57:05 **** Incremental Build of configuration Debug for project swapping ****
+make all 
+Building file: ../src/swapping.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/swapping.d" -MT"src/swapping.o" -o "src/swapping.o" "../src/swapping.c"
+Finished building: ../src/swapping.c
+ 
+Building target: swapping
+Invoking: MacOS X C Linker
+gcc  -o "swapping"  ./src/swapping.o   
+Finished building target: swapping
+ 
+
+14:57:06 Build Finished. 0 errors, 0 warnings. (took 599ms)
+

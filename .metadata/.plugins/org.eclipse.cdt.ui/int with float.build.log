@@ -1,0 +1,15 @@
+18:42:24 **** Incremental Build of configuration Debug for project int with float ****
+make all 
+Building file: ../src/int with float.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/int with float.d" -MT"src/int with float.o" -o "src/int with float.o" "../src/int with float.c"
+Finished building: ../src/int with float.c
+ 
+Building target: int with float
+Invoking: MacOS X C Linker
+gcc  -o "int with float"  ./src/int\ with\ float.o   
+Finished building target: int with float
+ 
+
+18:42:24 Build Finished. 0 errors, 0 warnings. (took 507ms)
+

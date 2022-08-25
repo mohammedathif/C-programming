@@ -1,0 +1,15 @@
+18:49:11 **** Incremental Build of configuration Debug for project intererate ****
+make all 
+Building file: ../src/intererate.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/intererate.d" -MT"src/intererate.o" -o "src/intererate.o" "../src/intererate.c"
+Finished building: ../src/intererate.c
+ 
+Building target: intererate
+Invoking: MacOS X C Linker
+gcc  -o "intererate"  ./src/intererate.o   
+Finished building target: intererate
+ 
+
+18:49:12 Build Finished. 0 errors, 0 warnings. (took 541ms)
+

@@ -1,0 +1,15 @@
+06:55:46 **** Incremental Build of configuration Debug for project even number ****
+make all 
+Building file: ../src/even number.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/even number.d" -MT"src/even number.o" -o "src/even number.o" "../src/even number.c"
+Finished building: ../src/even number.c
+ 
+Building target: even number
+Invoking: MacOS X C Linker
+gcc  -o "even number"  ./src/even\ number.o   
+Finished building target: even number
+ 
+
+06:55:47 Build Finished. 0 errors, 0 warnings. (took 421ms)
+

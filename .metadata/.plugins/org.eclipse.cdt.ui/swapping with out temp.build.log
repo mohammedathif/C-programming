@@ -1,0 +1,15 @@
+15:10:27 **** Incremental Build of configuration Debug for project swapping with out temp ****
+make all 
+Building file: ../src/swapping with out temp.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/swapping with out temp.d" -MT"src/swapping with out temp.o" -o "src/swapping with out temp.o" "../src/swapping with out temp.c"
+Finished building: ../src/swapping with out temp.c
+ 
+Building target: swapping with out temp
+Invoking: MacOS X C Linker
+gcc  -o "swapping with out temp"  ./src/swapping\ with\ out\ temp.o   
+Finished building target: swapping with out temp
+ 
+
+15:10:28 Build Finished. 0 errors, 0 warnings. (took 421ms)
+

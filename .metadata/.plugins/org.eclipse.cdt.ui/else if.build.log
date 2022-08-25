@@ -1,0 +1,29 @@
+13:14:24 **** Incremental Build of configuration Debug for project else if ****
+make all 
+Building file: ../src/else if.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/else if.d" -MT"src/else if.o" -o "src/else if.o" "../src/else if.c"
+../src/else if.c:32:10: warning: variable 'result' is used uninitialized whenever 'if' condition is false [-Wsometimes-uninitialized]
+        else if(choise==4){
+                ^~~~~~~~~
+../src/else if.c:41:14: note: uninitialized use occurs here
+        printf("%d",result);
+                    ^~~~~~
+../src/else if.c:32:7: note: remove the 'if' if its condition is always true
+        else if(choise==4){
+             ^~~~~~~~~~~~~
+../src/else if.c:15:29: note: initialize the variable 'result' to silence this warning
+        int num1,num2,choise,result;
+                                   ^
+                                    = 0
+1 warning generated.
+Finished building: ../src/else if.c
+ 
+Building target: else if
+Invoking: MacOS X C Linker
+gcc  -o "else if"  ./src/else\ if.o   
+Finished building target: else if
+ 
+
+13:14:25 Build Finished. 0 errors, 1 warnings. (took 689ms)
+

@@ -1,0 +1,15 @@
+12:13:54 **** Incremental Build of configuration Debug for project sample input ****
+make all 
+Building file: ../src/sample input.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sample input.d" -MT"src/sample input.o" -o "src/sample input.o" "../src/sample input.c"
+Finished building: ../src/sample input.c
+ 
+Building target: sample input
+Invoking: MacOS X C Linker
+gcc  -o "sample input"  ./src/sample\ input.o   
+Finished building target: sample input
+ 
+
+12:13:54 Build Finished. 0 errors, 0 warnings. (took 465ms)
+

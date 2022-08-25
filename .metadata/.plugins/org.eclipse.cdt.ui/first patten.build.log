@@ -1,0 +1,15 @@
+19:54:06 **** Incremental Build of configuration Debug for project first patten ****
+make all 
+Building file: ../src/first patten.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/first patten.d" -MT"src/first patten.o" -o "src/first patten.o" "../src/first patten.c"
+Finished building: ../src/first patten.c
+ 
+Building target: first patten
+Invoking: MacOS X C Linker
+gcc  -o "first patten"  ./src/first\ patten.o   
+Finished building target: first patten
+ 
+
+19:54:07 Build Finished. 0 errors, 0 warnings. (took 620ms)
+

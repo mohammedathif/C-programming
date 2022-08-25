@@ -1,0 +1,27 @@
+12:27:07 **** Incremental Build of configuration Debug for project array limit ****
+make all 
+Building file: ../src/array limit.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/array limit.d" -MT"src/array limit.o" -o "src/array limit.o" "../src/array limit.c"
+Finished building: ../src/array limit.c
+ 
+Building target: array limit
+Invoking: MacOS X C Linker
+gcc  -o "array limit"  ./src/array\ limit.o   
+Finished building target: array limit
+ 
+12:27:16 **** Incremental Build of configuration Debug for project array limit ****
+make all 
+make: Nothing to be done for `all'.
+12:28:06 **** Incremental Build of configuration Debug for project array limit ****
+make all 
+Building file: ../src/array limit.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/array limit.d" -MT"src/array limit.o" -o "src/array limit.o" "../src/array limit.c"
+Finished building: ../src/array limit.c
+ 
+Building target: array limit
+Invoking: MacOS X C Linker
+gcc  -o "array limit"  ./src/array\ limit.o   
+Finished building target: array limit
+ 

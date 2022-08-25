@@ -1,0 +1,15 @@
+12:37:23 **** Incremental Build of configuration Debug for project sum ****
+make all 
+Building file: ../src/sum.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sum.d" -MT"src/sum.o" -o "src/sum.o" "../src/sum.c"
+Finished building: ../src/sum.c
+ 
+Building target: sum
+Invoking: MacOS X C Linker
+gcc  -o "sum"  ./src/sum.o   
+Finished building target: sum
+ 
+
+12:37:24 Build Finished. 0 errors, 0 warnings. (took 489ms)
+

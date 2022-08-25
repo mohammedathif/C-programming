@@ -1,0 +1,15 @@
+07:47:21 **** Incremental Build of configuration Debug for project greatest number ****
+make all 
+Building file: ../src/greatest number.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/greatest number.d" -MT"src/greatest number.o" -o "src/greatest number.o" "../src/greatest number.c"
+Finished building: ../src/greatest number.c
+ 
+Building target: greatest number
+Invoking: MacOS X C Linker
+gcc  -o "greatest number"  ./src/greatest\ number.o   
+Finished building target: greatest number
+ 
+
+07:47:22 Build Finished. 0 errors, 0 warnings. (took 560ms)
+

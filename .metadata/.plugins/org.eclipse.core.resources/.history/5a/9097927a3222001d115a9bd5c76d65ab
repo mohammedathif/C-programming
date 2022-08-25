@@ -1,0 +1,23 @@
+/*
+ ============================================================================
+ Name        : limit.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int i,num,sum=0;
+	printf("enter the number");
+	scanf("%d",&num);
+	for(i=1;i<num;i++){
+		sum=sum+1;
+	}
+	printf("%d",sum);
+	return EXIT_SUCCESS;
+}
