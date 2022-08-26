@@ -2079,3 +2079,25 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.cdt.core 1 0 2022-08-24 12:18:46.498
 !MESSAGE Indexed 'array limit' (1 sources, 75 headers) in 0.493 sec: 1,664 declarations; 2,232 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-08-25 16:11:33.221
+!MESSAGE Indexed 'sum of array' (1 sources, 75 headers) in 0.975 sec: 1,664 declarations; 2,232 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-08-25 17:29:00.241
+!MESSAGE Indexed 'search key' (1 sources, 75 headers) in 0.374 sec: 1,664 declarations; 2,232 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-08-25 20:00:53.814
+!MESSAGE Indexed 'array soting' (1 sources, 75 headers) in 0.303 sec: 1,664 declarations; 2,232 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+!SESSION 2022-08-26 06:24:57.500 -----------------------------------------------
+eclipse.buildId=4.24.0.I20220607-0700
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_AE
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/mohammedathif/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -keyring /Users/mohammedathif/.eclipse_keyring
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-08-26 06:38:04.859
+!MESSAGE Indexed 'string' (1 sources, 75 headers) in 1.41 sec: 1,664 declarations; 2,232 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-08-26 08:42:21.034
+!MESSAGE Indexed 'matrix array' (1 sources, 75 headers) in 0.553 sec: 1,664 declarations; 2,232 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)

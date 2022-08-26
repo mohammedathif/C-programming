@@ -1,27 +1,15 @@
-12:27:07 **** Incremental Build of configuration Debug for project array limit ****
+09:00:13 **** Incremental Build of configuration Debug for project matrix array ****
 make all 
-Building file: ../src/array limit.c
+Building file: ../src/matrix array.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/array limit.d" -MT"src/array limit.o" -o "src/array limit.o" "../src/array limit.c"
-Finished building: ../src/array limit.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/matrix array.d" -MT"src/matrix array.o" -o "src/matrix array.o" "../src/matrix array.c"
+Finished building: ../src/matrix array.c
  
-Building target: array limit
+Building target: matrix array
 Invoking: MacOS X C Linker
-gcc  -o "array limit"  ./src/array\ limit.o   
-Finished building target: array limit
+gcc  -o "matrix array"  ./src/matrix\ array.o   
+Finished building target: matrix array
  
-12:27:16 **** Incremental Build of configuration Debug for project array limit ****
+09:00:28 **** Incremental Build of configuration Debug for project matrix array ****
 make all 
 make: Nothing to be done for `all'.
-12:28:06 **** Incremental Build of configuration Debug for project array limit ****
-make all 
-Building file: ../src/array limit.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/array limit.d" -MT"src/array limit.o" -o "src/array limit.o" "../src/array limit.c"
-Finished building: ../src/array limit.c
- 
-Building target: array limit
-Invoking: MacOS X C Linker
-gcc  -o "array limit"  ./src/array\ limit.o   
-Finished building target: array limit
- 

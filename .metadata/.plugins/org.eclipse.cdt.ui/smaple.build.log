@@ -1,15 +1,6 @@
-10:26:03 **** Incremental Build of configuration Debug for project smaple ****
+17:47:48 **** Build of configuration Debug for project smaple ****
 make all 
-Building file: ../src/smaple.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/smaple.d" -MT"src/smaple.o" -o "src/smaple.o" "../src/smaple.c"
-Finished building: ../src/smaple.c
- 
-Building target: smaple
-Invoking: MacOS X C Linker
-gcc  -o "smaple"  ./src/smaple.o   
-Finished building target: smaple
- 
+make: Nothing to be done for `all'.
 
-10:26:03 Build Finished. 0 errors, 0 warnings. (took 567ms)
+17:47:49 Build Finished. 0 errors, 0 warnings. (took 355ms)
 
