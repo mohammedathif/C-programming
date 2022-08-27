@@ -1,24 +1,15 @@
-17:46:54 **** Build of configuration Debug for project function with argument with out retuen value ****
+20:39:18 **** Incremental Build of configuration Debug for project function without argiment with return value ****
 make all 
-Building file: ../src/function with argument with out retuen value.c
+Building file: ../src/function without argiment with return value.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/function with argument with out retuen value.d" -MT"src/function with argument with out retuen value.o" -o "src/function with argument with out retuen value.o" "../src/function with argument with out retuen value.c"
-Finished building: ../src/function with argument with out retuen value.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/function without argiment with return value.d" -MT"src/function without argiment with return value.o" -o "src/function without argiment with return value.o" "../src/function without argiment with return value.c"
+Finished building: ../src/function without argiment with return value.c
  
-Building target: function with argument with out retuen value
+Building target: function without argiment with return value
 Invoking: MacOS X C Linker
-gcc  -o "function with argument with out retuen value"  ./src/function\ with\ argument\ with\ out\ retuen\ value.o   
-Finished building target: function with argument with out retuen value
+gcc  -o "function without argiment with return value"  ./src/function\ without\ argiment\ with\ return\ value.o   
+Finished building target: function without argiment with return value
  
-17:47:03 **** Incremental Build of configuration Debug for project function with argument with out retuen value ****
+20:39:26 **** Incremental Build of configuration Debug for project function without argiment with return value ****
 make all 
-Building file: ../src/function with argument with out retuen value.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/function with argument with out retuen value.d" -MT"src/function with argument with out retuen value.o" -o "src/function with argument with out retuen value.o" "../src/function with argument with out retuen value.c"
-Finished building: ../src/function with argument with out retuen value.c
- 
-Building target: function with argument with out retuen value
-Invoking: MacOS X C Linker
-gcc  -o "function with argument with out retuen value"  ./src/function\ with\ argument\ with\ out\ retuen\ value.o   
-Finished building target: function with argument with out retuen value
- 
+make: Nothing to be done for `all'.
