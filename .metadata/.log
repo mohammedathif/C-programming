@@ -2663,3 +2663,6 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.cdt.core 1 0 2022-08-27 13:01:37.339
 !MESSAGE Indexed 'function' (1 sources, 75 headers) in 1.34 sec: 1,664 declarations; 2,232 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-08-27 17:39:24.015
+!MESSAGE Indexed 'function with argument with out retuen value' (1 sources, 75 headers) in 0.566 sec: 1,664 declarations; 2,232 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
