@@ -1,15 +1,15 @@
-09:00:13 **** Incremental Build of configuration Debug for project matrix array ****
+16:09:51 **** Incremental Build of configuration Debug for project function ****
 make all 
-Building file: ../src/matrix array.c
+Building file: ../src/function.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/matrix array.d" -MT"src/matrix array.o" -o "src/matrix array.o" "../src/matrix array.c"
-Finished building: ../src/matrix array.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/function.d" -MT"src/function.o" -o "src/function.o" "../src/function.c"
+Finished building: ../src/function.c
  
-Building target: matrix array
+Building target: function
 Invoking: MacOS X C Linker
-gcc  -o "matrix array"  ./src/matrix\ array.o   
-Finished building target: matrix array
+gcc  -o "function"  ./src/function.o   
+Finished building target: function
  
-09:00:28 **** Incremental Build of configuration Debug for project matrix array ****
+16:10:02 **** Incremental Build of configuration Debug for project function ****
 make all 
 make: Nothing to be done for `all'.
